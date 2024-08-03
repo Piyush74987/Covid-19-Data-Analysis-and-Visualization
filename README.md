@@ -1,4 +1,4 @@
-# Covid_19_Anaylsis
+# Covid_19_Analysis
 
 ## Images
 ![Covid_19_report_page-0001](https://github.com/user-attachments/assets/87bcf805-a899-45ec-9f1c-b8583d84ce93)
