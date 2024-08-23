@@ -42,7 +42,7 @@ Bar charts comparing country-wise statistics.
 Interactive dashboards that allow users to filter by date, country, and other parameters.
 Build a summary dashboard that provides an overview of the global impact of COVID-19, including total cases, deaths, and vaccination progress.
 
-### Insights and Conclusion:
+## Insights and Conclusion:
 Summarize the key insights derived from the analysis.
 Discuss the trends observed and their implications on public health and policy.
 Provide recommendations based on the analysis, such as identifying regions that may require more resources or interventions.
